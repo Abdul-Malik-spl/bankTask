@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bankTask/static/css/main.571379a3.css",
+    "main.js": "/bankTask/static/js/main.f0f3f774.js",
+    "static/js/453.e93a3320.chunk.js": "/bankTask/static/js/453.e93a3320.chunk.js",
+    "index.html": "/bankTask/index.html",
+    "main.571379a3.css.map": "/bankTask/static/css/main.571379a3.css.map",
+    "main.f0f3f774.js.map": "/bankTask/static/js/main.f0f3f774.js.map",
+    "453.e93a3320.chunk.js.map": "/bankTask/static/js/453.e93a3320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.571379a3.css",
+    "static/js/main.f0f3f774.js"
+  ]
+}
